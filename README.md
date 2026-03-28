@@ -2,6 +2,20 @@
 
 A dark theme for [Omarchy](https://omarchy.com) inspired by the vivid magentas and greens of bougainvillea flowers against a night sky.
 
+## Screenshots
+
+![Desktop](assets/demo1.png)
+
+![btop](assets/btop.png)
+
+## Backgrounds
+
+![Bugambilia](backgrounds/Bugambilia.jpeg)
+
+![GrapeSoda](backgrounds/GrapeSoda.jpeg)
+
+![Luminous](backgrounds/Luminous.jpeg)
+
 ## Color Palette
 
 | Color          | Normal    | Bright    |
